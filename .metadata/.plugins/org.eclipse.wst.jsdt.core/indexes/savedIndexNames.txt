@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+A:\LTI LEARNING MODULE\MAVENPROJECT\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1958499161.index
+1755514835.index
+1728305776.index
+3810247482.index
+1302741757.index
+1507946420.index
